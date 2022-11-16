@@ -1,4 +1,9 @@
+Hosted link:https://albuml.herokuapp.com/
 # Getting Started with Create React App
+
+folder structur
+![Screenshot (207)](https://user-images.githubusercontent.com/32057541/202104654-bc63874c-f59c-4b31-a21a-fe7d5d68e394.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -13,6 +18,24 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+homepage
+![Screenshot (202)](https://user-images.githubusercontent.com/32057541/202104727-b1626d85-7dd6-471a-8228-842f39258d19.png)
+
+
+create
+![Screenshot (203)](https://user-images.githubusercontent.com/32057541/202104824-dcd385f1-c963-43af-a725-d6ddd902c8df.png)
+![Screenshot (204)](https://user-images.githubusercontent.com/32057541/202104876-ec41e9cb-2559-49fa-b9f8-276d9cddb60b.png)
+
+edit
+![Screenshot (209)](https://user-images.githubusercontent.com/32057541/202104949-e5b9a024-780b-4cd6-9d0f-068eb3004e13.png)
+
+
+delete
+![Screenshot (206)](https://user-images.githubusercontent.com/32057541/202105027-5cf7b8f1-7a03-4c43-98d4-a9ee3f20cd26.png)
+![Screenshot (205)](https://user-images.githubusercontent.com/32057541/202105090-fa4807da-cbc2-4ad5-b513-8bca95793416.png)
+
+
 
 ### `npm test`
 
